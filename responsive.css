@@ -1,0 +1,290 @@
+@media screen and(max-width:600px){
+	*{
+		font-size: 15px;
+	}
+	header{
+		width: 600px;
+	}
+	body{
+		width: 600px;
+	}
+	main{
+		width: 600px;
+	}
+	.div2{
+		height: 500px;
+		width: 600px;
+	}
+	.img img{
+		height: 86px;
+		width: 25%;
+		margin-left: 220px;
+		margin-top: 30px;
+	}
+	.txt1{
+		height: 78px;
+		width: 50%;
+		margin-left: 200px;
+		margin-top: 150px;
+	} 
+	.txt2{
+		height: 78px;
+		width: 50%;
+		margin-left: 150px;
+		margin-top: 200px;
+	}
+	.div3{
+		display: grid;
+		width: 600px;
+		height: 1100px;
+	}
+	.ecrit{
+		height: 200px;
+	}
+	.ecrit h2{
+		font-size: 20px;
+		margin-left: 180px;
+	}
+	.ecrit p{
+		font-size: 15px;
+		margin-left: 150px;
+	}
+	.cercle{
+		width: 100px;
+		height: 100px;
+		margin-left: 250px;
+	}
+	.cercle img{
+		margin-left: 25px;
+		margin-top: 25px;
+		width: 50px;
+	}
+	.div4{
+		display: grid;
+		width: 600px;
+		height: 400px;
+	}
+	.div4 h1{
+		margin-left: 200px;
+		margin-top: 50px;
+		font-size: 30px;
+
+	}
+	.pro{
+		margin-left: 60px;
+		margin-top: 100px;
+	}
+	.desi{
+		margin-left: 280px;
+		margin-top: 100px;
+	}
+	.mark{
+		margin-left: 50px;
+		margin-top: 200px;
+	}
+	.entr{
+		margin-left: 350px;
+		margin-top: 200px;
+	}
+	.div5{
+		width: 600px;
+		height: 1000px;
+		display: flex;
+	}
+	.ligne1, .ligne2{
+		display: grid;
+		margin-left: 20px;
+	}
+	.wp, .canva, .css, .js, .java, .lnk, .ae, .python{
+		width: 250px;
+		height: 250px;
+	} 
+	.wp img{
+		margin-left: 50px;
+		margin-top: 50px;
+		width: 150px;
+		height: 150px;
+	}
+	.canva img{
+		margin-left: 50px;
+		margin-top: 50px;
+		width: 150px;
+		height: 150px;
+	}
+	.css img{
+		margin-left: 50px;
+		margin-top: 50px;
+		width: 150px;
+		height: 150px;
+	}
+	.js img{
+		margin-left: 50px;
+		margin-top: 50px;
+		width: 150px;
+		height: 150px;
+	}
+	.java img{
+		margin-left: 50px;
+		margin-top: 50px;
+		width: 150px;
+		height: 150px;
+	}
+	.lnk img{
+		margin-left: 50px;
+		margin-top: 50px;
+		width: 150px;
+		height: 150px;
+	}
+	.ae img{
+		margin-left: 50px;
+		margin-top: 50px;
+		width: 150px;
+		height: 150px;
+	}
+	.python img{
+		margin-left: 50px;
+		margin-top: 50px;
+		width: 150px;
+		height: 150px;
+	}
+	.div6{
+		width: 600px;
+		height: 700px;
+	}
+	.div6 h2{
+		margin-left: 200px;
+		font-size: 50px;
+	}
+	.div6 p{
+		margin-left: 50px;
+		font-size: 15px;
+		width: 75%;
+	}
+	.bar{
+		display: grid;
+	}
+	.bar p{
+		margin-left: -60px;
+		font-size: 15px;
+	}
+	.bar span{
+		margin-left: 150px;
+	}
+	.myprogress{
+		width: 300px;
+	}
+	.div7{
+		width: 600px;
+		height: 1500px;
+	}
+	.div7 h2{
+		margin-left: 200px;
+	}
+	.div7 p{
+		margin-left: 50px;
+	}
+	.group{
+		display: grid;
+		margin-left: 170px;
+	}
+	.group h4{
+		margin-left: 5px;
+		margin-top: 10px;
+	}
+	.jc, .jj, .la,.bs{
+		width: 200px;
+		height: 250px;
+	}
+	.jc2, .jj2, .la2,.bs2{
+		width: 200px;
+		height: 200px;
+	}
+	.jc2 img{
+		width: 150px;
+		height: 150px;
+		margin-left: 25px;
+		margin-top: 50px;
+	}
+	.jj2 img{
+		width: 150px;
+		height: 150px;
+		margin-left: 25px;
+		margin-top: 50px;
+	}
+	.la2 img{
+		width: 150px;
+		height: 150px;
+		margin-left: 25px;
+		margin-top: 50px;
+	}
+	.bs2 img{
+		width: 150px;
+		height: 150px;
+		margin-left: 25px;
+		margin-top: 50px;
+	}
+	.div8{
+		width: 600px;
+	}
+	.img2{
+		margin-left: 300px;
+	}
+	.txt3{
+		margin-left: 100px;
+		width: 400px;
+		text-align: center;
+	}
+	.txt4{
+		margin-left: 150px;
+	}
+	footer{
+		width: 600px;
+		display: inline-flex;
+	}
+	footer h2{
+		margin-left: 100px;
+		font-size: 50px;
+	}
+	.footer{
+		display: grid;	
+		width: 100px;
+		margin-top: 0px;
+		margin-left: -250px;
+	}
+	.txt5, .txt6, .txt7, .txt8{
+		height: 15px;
+	}
+	.contact{
+		width: 100px;
+		margin-left: 200px;
+	}
+	.contact h2{
+		margin-top: 200px;
+		margin-left: 100px;
+	}
+	.contact h3{
+		margin-top: 50px;
+		margin-left: 100px;
+	}
+	.logos{
+		width: 50px;
+		height: 100px;
+		margin-left: 100px;
+		margin-top: 50px;
+	}
+	.facebook{
+		height: 20px;
+		width: 20px;
+		margin-left: 10px;
+	}
+	.twitter{
+		height: 20px;
+		width: 20px;
+		margin-left: 10px;
+	}
+	.linkdin{
+		height: 20px;
+		width: 20px;
+		margin-left: 10px;
+	}
+}
